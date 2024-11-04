@@ -12,6 +12,7 @@ nc comma-club-revenge.chal.hackthe.vote 1337
 ```
 
 ## Solution
+[Full writeup in CTFtime](https://ctftime.org/writeup/39634)  
 Here is final exploit:
 ```
 from pwn import *
