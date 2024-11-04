@@ -1,7 +1,7 @@
 import hashlib
 
 # Base string
-base_string = "ALH3QEl6booxNAnj"
+base_string = "DPf0Vayhe7uuIGLM"
 
 # Function to find valid input
 def find_valid_input():
